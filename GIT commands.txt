@@ -1,5 +1,3 @@
 We have start with git init
 
-Questions
-
-How do we open the particular directory in our powershell or CMD
+Git Token : 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
